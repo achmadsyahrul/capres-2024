@@ -1,0 +1,5 @@
+sonar.host.url=han-network
+sonar.projectKey=capres-2024
+
+sonar.php.coverage.reportPaths=coverage.xml
+sonar.exclusions= **/__tests__/**
